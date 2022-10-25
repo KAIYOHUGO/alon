@@ -1,3 +1,6 @@
+Despite + N ... = In sprite of + N ... {
+}
+
 academic {
     adj {
         學校的, 學術的
@@ -14,6 +17,26 @@ autobiography {
     n {
         自傳
     }
+}
+
+be fascinated by {
+    為...著迷
+}
+
+broadly {
+    adv {
+        廣泛地
+    }
+}
+
+burden {
+    n {
+        重擔
+    }
+}
+
+call on {
+    動員
 }
 
 campus {
@@ -34,9 +57,51 @@ capacity {
     }
 }
 
+chaotic {
+    混亂的
+}
+
+choke {
+    窒息
+}
+
+clasp {
+    緊握
+}
+
+communicatively {
+    溝通地
+}
+
 competence {
     n {
         能力
+    }
+}
+
+concentrate {
+    v {
+        集中
+    }
+}
+
+confinement {
+    監禁
+}
+
+considerate {
+    體諒的
+}
+
+counterpart {
+    n {
+        相對的人事物
+    }
+}
+
+criminal {
+    n {
+        犯人
     }
 }
 
@@ -74,9 +139,55 @@ dress code {
     服儀規定
 }
 
+drive ... away {
+    驅趕走
+}
+
+energetic {
+    adj {
+        有能量的
+    }
+}
+
+entanglement {
+    n {
+        糾纏、纏住
+    }
+}
+
+exhibit {
+    v {
+        展現
+    }
+}
+
+expense {
+    n {
+        費用
+    }
+}
+
 faculty {
     n {
         教職人員
+    }
+}
+
+faint {
+    頭暈的
+}
+
+fascinated {
+    著迷的
+}
+
+fiction {
+    虛構的
+}
+
+furniture {
+    n {
+        家具
     }
 }
 
@@ -86,9 +197,99 @@ grant {
     }
 }
 
+grief {
+    哀傷
+}
+
+have impact on {
+}
+
+help + (to) V原 {
+}
+
+in particular {
+    尤其
+}
+
+inadequate {
+    不足的
+}
+
+incidence {
+    n {
+        發生、事件
+    }
+}
+
+indicate {
+    v {
+        指示
+    }
+}
+
+inevitable {
+    adj {
+        無可避免的
+    }
+}
+
+loosely {
+    寬鬆的
+}
+
 morale {
     n {
         士氣
+    }
+}
+
+mutter {
+    喃喃自語
+}
+
+necessarily {
+    必然的
+}
+
+notion {
+    概念
+}
+
+persuasive {
+    adj {
+        說服力的
+    }
+}
+
+plan out {
+    計畫
+}
+
+poverty {
+    貧窮
+}
+
+practical {
+    adj {
+        實用的
+    }
+}
+
+punctual {
+    adj {
+        守時的
+    }
+}
+
+religious {
+    adj {
+        宗教的
+    }
+}
+
+scenario {
+    n {
+        場景
     }
 }
 
@@ -98,8 +299,18 @@ scholarship {
     }
 }
 
+some ... others ... {
+    一些 ... 另一些 ...
+}
+
 specialize in {
     專攻
+}
+
+splay {
+    v {
+        展開、張開
+    }
 }
 
 statement of purpose {
@@ -108,6 +319,10 @@ statement of purpose {
 
 straight A's student {
     成績優異的學生
+}
+
+surgical {
+    手術的
 }
 
 take a course {
@@ -122,5 +337,17 @@ tuition {
 
 underachiever {
     成績不理想的學生
+}
+
+verbal {
+    adj {
+        口頭的
+    }
+}
+
+virtually {
+    adv {
+        實際上
+    }
 }
 
