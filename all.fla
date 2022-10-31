@@ -1,9 +1,21 @@
 Despite + N ... = In sprite of + N ... {
 }
 
+abolish {
+    v {
+        廢除
+    }
+}
+
 academic {
     adj {
         學校的, 學術的
+    }
+}
+
+architect {
+    n {
+        建築師
     }
 }
 
@@ -11,6 +23,10 @@ assignment {
     n {
         作業
     }
+}
+
+at present {
+    目前
 }
 
 autobiography {
@@ -69,6 +85,12 @@ clasp {
     緊握
 }
 
+commemorate {
+    v {
+        紀念
+    }
+}
+
 communicatively {
     溝通地
 }
@@ -76,6 +98,12 @@ communicatively {
 competence {
     n {
         能力
+    }
+}
+
+competitor {
+    n {
+        參加者
     }
 }
 
@@ -117,15 +145,43 @@ decline {
     }
 }
 
+diminish {
+    v {
+        降低
+    }
+}
+
 diploma {
     n {
         文憑
     }
 }
 
+disciple {
+    n {
+        信徒
+    }
+}
+
 discipline {
     n {
         紀律
+    }
+}
+
+discrimination {
+    n {
+        歧視
+    }
+}
+
+dispose of {
+    丟棄
+}
+
+distinguish {
+    v {
+        識別
     }
 }
 
@@ -141,6 +197,12 @@ dress code {
 
 drive ... away {
     驅趕走
+}
+
+eccentric {
+    adj {
+        古怪的
+    }
 }
 
 energetic {
@@ -181,14 +243,28 @@ fascinated {
     著迷的
 }
 
+fermentation {
+    n {
+        發酵
+    }
+}
+
 fiction {
     虛構的
+}
+
+food for thought {
+    令人深思的事物
 }
 
 furniture {
     n {
         家具
     }
+}
+
+give priority to {
+    優先考慮
 }
 
 grant {
@@ -204,7 +280,17 @@ grief {
 have impact on {
 }
 
+have something to do with {
+    跟...有關
+}
+
 help + (to) V原 {
+}
+
+homogenous {
+    adj {
+        同類的
+    }
 }
 
 in particular {
@@ -227,14 +313,32 @@ indicate {
     }
 }
 
+indigenous {
+    adj {
+        原生的
+    }
+}
+
 inevitable {
     adj {
         無可避免的
     }
 }
 
+insular {
+    n {
+        絕緣體
+    }
+}
+
 loosely {
     寬鬆的
+}
+
+medieval {
+    adj {
+        中世紀的
+    }
 }
 
 morale {
@@ -245,6 +349,18 @@ morale {
 
 mutter {
     喃喃自語
+}
+
+nasty {
+    adj {
+        討厭的
+    }
+}
+
+nausea {
+    n {
+        噁心
+    }
 }
 
 necessarily {
@@ -272,6 +388,12 @@ poverty {
 practical {
     adj {
         實用的
+    }
+}
+
+procession {
+    n {
+        隊伍
     }
 }
 
@@ -335,8 +457,20 @@ tuition {
     }
 }
 
+tyrannical {
+    adj {
+        強橫的
+    }
+}
+
 underachiever {
     成績不理想的學生
+}
+
+vague {
+    adj {
+        含糊的
+    }
 }
 
 verbal {
@@ -349,5 +483,9 @@ virtually {
     adv {
         實際上
     }
+}
+
+with an eye to V-ing {
+    為了
 }
 
