@@ -1,4 +1,8 @@
-Despite + N ... = In sprite of + N ... {
+Despite + N ... = {{In sprite of + N ...}} {
+}
+
+a blessing in disguise {
+    因禍得福
 }
 
 abolish {
@@ -11,6 +15,18 @@ academic {
     adj {
         學校的, 學術的
     }
+}
+
+acquaint {
+    使熟悉，使認識(+with)
+}
+
+amateur {
+    業餘人士，業餘的
+}
+
+arch {
+    拱門，(使)成弓形
 }
 
 architect {
@@ -35,8 +51,20 @@ autobiography {
     }
 }
 
+be all the rage {
+    大為流行
+}
+
 be fascinated by {
     為...著迷
+}
+
+boast {
+    自誇，自吹自擂，以擁有...而自豪
+}
+
+breed {
+    繁殖，產生(惡果)，品種
 }
 
 broadly {
@@ -45,10 +73,18 @@ broadly {
     }
 }
 
+brutal {
+    殘酷的，不仁道的
+}
+
 burden {
     n {
         重擔
     }
+}
+
+by a narrow margin {
+    以些微之差，有驚無險地
 }
 
 call on {
@@ -73,12 +109,24 @@ capacity {
     }
 }
 
+capitalism {
+    資本主義
+}
+
+catalogue {
+    (商品)型錄
+}
+
 chaotic {
     混亂的
 }
 
 choke {
     窒息
+}
+
+circular {
+    圓形的，傳單，公告
 }
 
 clasp {
@@ -113,6 +161,10 @@ concentrate {
     }
 }
 
+conductor {
+    (樂團的)指揮者，(火車)列車長，導體
+}
+
 confinement {
     監禁
 }
@@ -133,10 +185,18 @@ criminal {
     }
 }
 
+cripple {
+    使成跛腳，跛子
+}
+
 curriculum {
     n {
         學校課程
     }
+}
+
+damp {
+    有濕氣的，潮濕的
 }
 
 decline {
@@ -175,6 +235,10 @@ discrimination {
     }
 }
 
+disguise {
+    假扮，喬裝
+}
+
 dispose of {
     丟棄
 }
@@ -195,8 +259,24 @@ dress code {
     服儀規定
 }
 
+drill {
+    鑽(洞)，訓練，鑽頭，訓練
+}
+
 drive ... away {
     驅趕走
+}
+
+durable {
+    持久的，耐用的
+}
+
+dynamic {
+    充滿活力的
+}
+
+earnest {
+    認真的，誠摯的，認真，誠摯
 }
 
 eccentric {
@@ -205,16 +285,36 @@ eccentric {
     }
 }
 
+elegant {
+    高雅的，有氣質的，漂亮的
+}
+
+elementary {
+    初級的，基本的
+}
+
+enclose {
+    封上，附寄
+}
+
 energetic {
     adj {
         有能量的
     }
 }
 
+enlarge {
+    放大
+}
+
 entanglement {
     n {
         糾纏、纏住
     }
+}
+
+examiner {
+    檢查考
 }
 
 exhibit {
@@ -239,6 +339,10 @@ faint {
     頭暈的
 }
 
+farewell {
+    告別，送別
+}
+
 fascinated {
     著迷的
 }
@@ -255,6 +359,10 @@ fiction {
 
 food for thought {
     令人深思的事物
+}
+
+frown {
+    皺眉頭
 }
 
 furniture {
@@ -277,20 +385,44 @@ grief {
     哀傷
 }
 
-have impact on {
+haste {
+    匆忙，急促
+}
+
+have curls {
+    有一頭捲髮
+}
+
+have impact {{on}} {
 }
 
 have something to do with {
     跟...有關
 }
 
-help + (to) V原 {
+help + {{(to) V原}} {
 }
 
 homogenous {
     adj {
         同類的
     }
+}
+
+idle around {
+    閒蕩，鬼混
+}
+
+idle away one's time {
+    虛度光陰
+}
+
+imitate {
+    模仿，仿效
+}
+
+immigrate {
+    移民
 }
 
 in particular {
@@ -325,20 +457,52 @@ inevitable {
     }
 }
 
+infant {
+    嬰兒
+}
+
+influential {
+    有影響力的
+}
+
+instinct {
+    本性，本能
+}
+
 insular {
     n {
         絕緣體
     }
 }
 
+intimate {
+    親密的，有性關係的，私人的，密友
+}
+
+knuckle {
+    關節，指關節(尤指第一節)，(供食用的)蹄
+}
+
 loosely {
     寬鬆的
+}
+
+magnetic {
+    磁石的，磁場的，有吸引力的
 }
 
 medieval {
     adj {
         中世紀的
     }
+}
+
+mild {
+    溫和的(天氣，個性)
+}
+
+mist {
+    薄霧
 }
 
 morale {
@@ -367,8 +531,32 @@ necessarily {
     必然的
 }
 
+newcomer {
+    新手
+}
+
+nonsense {
+    胡說八道，廢話
+}
+
 notion {
     概念
+}
+
+oral {
+    口語的
+}
+
+oval {
+    卵形的，橢圓形，橢圓
+}
+
+pebble {
+    鵝卵石
+}
+
+penalty {
+    懲罰
 }
 
 persuasive {
@@ -377,8 +565,16 @@ persuasive {
     }
 }
 
+pessimistic {
+    悲觀的
+}
+
 plan out {
     計畫
+}
+
+portray {
+    描述，描繪
 }
 
 poverty {
@@ -391,10 +587,26 @@ practical {
     }
 }
 
+preferable {
+    更合人意的，更好的
+}
+
 procession {
     n {
         隊伍
     }
+}
+
+profitable {
+    有利潤的，有益的
+}
+
+promising {
+    有為的，有前途的
+}
+
+prosper {
+    繁榮，興榮
 }
 
 punctual {
@@ -403,10 +615,30 @@ punctual {
     }
 }
 
+rage {
+    憤怒，狂熱
+}
+
+recite {
+    背誦
+}
+
 religious {
     adj {
         宗教的
     }
+}
+
+reluctant {
+    勉強的
+}
+
+restless {
+    不安的，無休止的
+}
+
+retreat {
+    撤退
 }
 
 scenario {
@@ -419,6 +651,22 @@ scholarship {
     n {
         獎學金
     }
+}
+
+shrug {
+    聳肩
+}
+
+shrug off {
+    擺脫...，不理會...
+}
+
+singular {
+    單數的，奇特的，非凡的
+}
+
+sledge {
+    雪橇
 }
 
 some ... others ... {
@@ -443,12 +691,28 @@ straight A's student {
     成績優異的學生
 }
 
+strive {
+    力爭，奮鬥
+}
+
 surgical {
     手術的
 }
 
+surrender {
+    投降
+}
+
 take a course {
     修課
+}
+
+telegraph {
+    電報，電信，用電報發送
+}
+
+thoughtful {
+    體諒的，有思想的
 }
 
 tuition {
@@ -483,6 +747,10 @@ virtually {
     adv {
         實際上
     }
+}
+
+whereby {
+    藉此
 }
 
 with an eye to V-ing {
