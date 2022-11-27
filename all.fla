@@ -5,6 +5,21 @@ a blessing in disguise {
     因禍得福
 }
 
+abandon {
+    v {
+        離棄，放棄，遺棄，放縱
+    }
+    n {
+        盡情，放縱
+    }
+    They had to abandon their attempt to climb the mountain.
+    他們被迫中止登山計劃。
+    
+    
+    We danced with wild abandon.
+    我們縱情舞蹈。
+}
+
 abolish {
     v {
         to end an activity or custom officially
@@ -18,18 +33,218 @@ academic {
     adj {
         學校的，學術的
     }
+    n {
+        大學教師，學者，（中學或大學的）學科
+    }
+}
+
+accent {
+    n {
+        口音，腔調，強調...
+    }
+    v {
+        強調，著重
+    }
+    In any advertising campaign, you must accent the areas where your product is better than the competition.
+    在廣告宣傳中，必須突出你的產品優於競爭對手的方面。
+}
+
+acceptance {
+    n {
+        認可，接納，接受（提議，計劃或邀請），容忍
+    }
+    His attitude to his children's behaviour is one of resigned acceptance.
+    他對自己孩子的行為抱著能忍則忍的態度。
+}
+
+accompany {
+    v {
+        陪同，陪伴，伴隨
+    }
+    "May I accompany you to the ball?" he asked her.
+    「我可以陪您去參加舞會嗎？」他問她。
+}
+
+accountant {
+    n {
+        會計，會計師
+    }
+}
+
+accuracy {
+    n {
+        準確，精確，正確
+    }
+    We can predict changes with a surprising degree of accuracy.
+    我們可以出奇準確地預測變化。
+}
+
+accuse {
+    v {
+        指控，控告，指責，譴責
+    }
+}
+
+acid {
+    n {
+        酸
+    }
+    adj {
+        酸的，刻薄的
+    }
+    When she spoke her tone was acid.
+    她說話時，語氣尖酸刻薄。
 }
 
 acquaint {
-    使熟悉，使認識(+with)
+    v {
+        使熟悉，使認識(+with)
+    }
+    Take time to acquaint yourself with the rules.
+    花點時間熟悉一下規則。
+}
+
+acquaintance {
+    n {
+        相識的人，熟人，（用在某些表達方式中表示）認識，結識
+        
+        （對某一學科的）所知，了解
+    }
+    I wasn't sure about Darryl when I first met her, but on further acquaintance (= knowing her a little more) I rather like her.
+    第一次遇到達裡爾時，我不確定自己對她的觀感，但是隨著進一步的了解，我很喜歡她。
+    
+    Sadly, my acquaintance with Spanish literature is rather limited.
+    可惜，我對西班牙文學所知相當有限。
+}
+
+adequate {
+    adj {
+        足夠的，合格的，合乎需要的
+    }
+    It's not a big salary but it's adequate for our needs.
+    薪資雖不優厚，但足以滿足我們的需要了。
+}
+
+admission {
+    n {
+        （尤指不情願的）承認，供認
+        
+        入場費
+        
+        准許進入
+        permission to enter a place
+    }
+    By/On his own admission (= as he has said) he has achieved little since he took over the company.
+    據他自己說，自從接手公司以來，他幾乎一事無成。
+    
+    How much do they charge for admission?
+    他們入場費要收多少錢？
+}
+
+agency {
+    n {
+        代理機構，政府專門機構，政府內的局/部/處
+    }
+}
+
+agent {
+    n {
+        代理人，代理商，作用劑
+    }
+}
+
+agreeable {
+    adj {
+        令人愉悅的，愜意的，宜人的
+        
+        可以接受的，適合的，欣然同意的
+    }
+    We spent a most agreeable evening by the river.
+    我們在河邊度過了一個極為愉快的夜晚。
+    
+    The talks are aimed at finding a mutually agreeable solution.
+    會談旨在找出一個雙方都能接受的解決辦法。
+}
+
+allowance {
+    n {
+        （尤指為特定事項支付的）定期補貼，津貼
+        
+        定量，限額
+    }
+    I couldn't have managed at college if I hadn't had an allowance from my parents.
+    要不是父母定期給我生活費，我沒法讀完大學。
+    
+    The baggage/luggage allowance for most flights is 20 kilos.
+    大多數班機給乘客的行李重量限額是20公斤。
 }
 
 amateur {
-    業餘人士，業餘的
+    adj {
+        業餘的
+    }
+    n {
+        業餘人士
+    }
+}
+
+amuse {
+    v {
+        （尤指透過幽默的言行）逗樂，逗笑
+    }
+}
+
+anniversary {
+    n {
+        週年紀念，週年紀念日
+    }
+}
+
+applicant {
+    n {
+        （尤指求職於或考大學的）申請人
+        a person who formally requests something, especially a job, or to study at a college or university
+    }
+}
+
+appoint {
+    v {
+        任命，委任，約定，安排（日期，時間）
+    }
+    We've appointed three new teachers this year.
+    我們今年已經任用了三名新教師。
+    
+    A date has been appointed for the election.
+    選舉日期已定。
+}
+
+appropriate {
+    adj {
+        適當的，恰當的，合適的
+    }
+    v {
+        佔用，盜用，撥出（款項）
+    }
+    He lost his job when he was found to have appropriated some of the company's money.
+    他被發現侵吞公司款項後就丟了工作。
+    
+    The government have appropriated millions of pounds for the project.
+    政府已經為該企劃案撥款數百萬英鎊。
+}
+
+aquarium {
+    n {
+        養魚缸，水族玻璃槽，水族箱，（通常指對公眾開放的）水族館
+    }
 }
 
 arch {
-    拱門，(使)成弓形
+    n {
+        拱門，(使)成弓形
+    }
+    v {
+        （使）拱起，（使）成拱形
+    }
 }
 
 architect {
@@ -44,6 +259,23 @@ arguably {
     }
     Arguably, the drug should not have been made available.
     或許這種藥根本就不該上市。
+}
+
+arise {
+    v {
+        發生，產生，出現，起床
+    }
+    Could you work on Saturday, should the need arise (= if it were to be necessary)?
+    萬一有需要，你可以在星期六工作嗎？
+    
+    We arose early on Christmas morning.
+    聖誕節早上，我們早早地起了床。
+}
+
+arms {
+    n {
+        武器，軍備
+    }
 }
 
 arouse {
@@ -64,16 +296,138 @@ assignment {
     n {
         作業
     }
+    I have a lot of reading assignments to complete before the end of term.
+    期末前我有大量閱讀功課要完成。
+}
+
+assistance {
+    n {
+        幫助，協助，援助，來幫助（某人）
+    }
+}
+
+association {
+    n {
+        協會，聯繫，關係，聯想
+    }
+    The British Medical Association is/are campaigning for a complete ban on tobacco advertising.
+    英國醫學協會正發起一項全面禁止煙草廣告的運動。
+}
+
+assurance {
+    n {
+        保證，自信，把握，（人壽）保險
+    }
+    Despite the government's repeated assurances to the contrary, taxation has risen over the past decade.
+    儘管政府一再保證不會增稅，可在過去十年中稅收還是提高了。
+    
+    He spoke with calm assurance.
+    他說話時冷靜而自信。
+}
+
+assure {
+    v {
+        （尤指為消除其憂慮而）確定地對...說，向...保證，使確信
+    }
+    You can rest assured (= feel confident) that I shall be there as promised.
+    你放心，我答應了就一定會到的。
+    
+    The play's popularity has been assured by the critics' rave reviews.
+    評論家們的讚賞，確保了這套戲劇會走紅。
 }
 
 at present {
     目前
+    
+    At present she's working abroad.
+    她目前在國外工作。
+}
+
+authentic {
+    adj {
+        真的，真正的，可靠的，可信的
+    }
+    He was there and saw what happened, so his is the only authentic account.
+    他在現場，並看到了事情的經過，所以他的敘述是唯一可靠的說法。
+}
+
+authority {
+    n {
+        威信，權力，管轄權，當局，當權者
+        
+        權威人士，專家
+        an expert on a subject
+    }
+    He has no authority over (= ability to control) his students.
+    他在學生面前沒有威信。
+    
+    She's a world authority on 19th-century Irish history.
+    她是19世紀愛爾蘭歷史方面的國際權威。
 }
 
 autobiography {
     n {
         自傳
     }
+}
+
+autograph {
+    n {
+        （名人的）親筆簽名
+    }
+    v {
+        在...上親筆簽名
+    }
+}
+
+bald {
+    adj {
+        禿頭的，全禿的
+        
+        簡單的，不加贅述的
+        
+        光滑的，磨平的
+    }
+    There was just this bald statement of resignation - no explanation or anything.
+    只有簡單的辭職聲明——沒有解釋之類的東西。
+    
+    The tyre was completely bald.
+    車胎完全磨平了。
+}
+
+bandage {
+    n {
+        繃帶，邦迪牌創可貼，OK 繃（同 Band-Aid）
+    }
+    v {
+        用繃帶包紮（傷口或身體部位）
+    }
+    You ought to bandage (up) that cut.
+    你應該用繃帶把傷口包紮起來。
+}
+
+bargain {
+    n {
+        便宜貨，廉價品，協議，交易
+    }
+    The airline regularly offers last-minute bookings at bargain prices.
+    航空公司定期提供最後時刻的廉價訂票服務。
+}
+
+basin {
+    n {
+        盆，水盆，一盆（的量），洗手池，洗臉盆
+    }
+    a basin of water
+    一盆水
+}
+
+battery {
+    n {
+        電池，電芯，一組，一套，一連串（同類事物）
+    }
+    In the kitchen an impressive battery of stainless steel utensils hangs on the wall.
+    廚房的牆上掛著一套不鏽鋼廚具，非常顯眼。
 }
 
 be all the rage {
@@ -84,27 +438,152 @@ be fascinated by {
     為...著迷
 }
 
+biography {
+    n {
+        傳記
+    }
+}
+
+blade {
+    n {
+        刀身，刀片，刀刃
+        
+        （機器上推動水或空氣的）槳葉，槳身
+        
+        （用於扁平細長的刀片形物體名稱中），（草等的）葉片，（溜冰鞋的）冰刀
+        
+        有吸引力，自信的年輕男子
+    }
+    a blade of grass
+    草葉
+    
+    a dashing young blade
+    一個精神抖擻，瀟灑自若的年輕人
+}
+
+bloom {
+    v {
+        開花，綻放，繁榮，興盛
+    }
+    n {
+        花，開花，青春煥發，風華正茂
+    }
+    These flowers will bloom all through the summer.
+    這些花整個夏天都會綻放。
+    
+    Rimbaud's poetic genius bloomed early.
+    蘭波很早就展露了詩歌才華。
+    
+    He was 19, in the full bloom of youth.
+    他那時19歲，風華正茂。
+}
+
+blossom {
+    v {
+        開花
+        
+        （人）變得更有魅力（或更成功，更自信），（好的感覺或關係）深入發展，增強
+    }
+    n {
+        花朵，花簇
+    }
+    She has really blossomed recently.
+    她近來確實容光煥發。
+    
+    Sean and Sarah's friendship blossomed into love.
+    尚恩和莎拉之間的友誼發展成了愛情。
+}
+
 boast {
-    自誇，自吹自擂，以擁有...而自豪
+    n {
+        自誇，自吹自擂，以擁有...而自豪
+    }
+    Ireland boasts beautiful beaches, great restaurants, and friendly locals.
+    愛爾蘭擁有美麗的海灘、很棒的餐館和友好的當地人。
+}
+
+bond {
+    n {
+        聯繫，關係，公債，債券，合約，黏合處
+    }
+    v {
+        （尤指用膠水）（使）黏合
+    }
+    the bond(s) of friendship/love
+    友誼／戀愛關係
+    
+    They have entered into a solemn bond.
+    他們已經締結了一項正式契約。
+    
+    I invested some money in savings bonds.
+    我在儲蓄債券上投了一些錢。
+    
+    When the glue has set, the bond formed is watertight.
+    膠水凝固之後，黏合處是防水的。
 }
 
 breed {
-    繁殖，產生(惡果)，品種
+    v {
+        （為育種目的）飼養，（動物）交配繁殖，招致，導致
+    }
+    n {
+        （動植物的）品種，（人的）類型，種類
+    }
+    Favouritism breeds resentment.
+    偏袒招致怨恨。
+    
+    What's your favourite breed of dog/dog breed?
+    你最喜歡哪種狗？
+    
+    Arletty was that rare breed of actress - beautiful, sexy and funny.
+    阿列蒂是那種少見的女演員——漂亮、性感、幽默。
 }
 
 broadly {
     adv {
-        廣泛地
+        廣泛地，概括地
+        
+        咧著嘴(笑）地
+        If someone smiles broadly, they have a big smile.
+    }
+    Broadly speaking, don't you think women make better drivers than men?
+    總的來説，你不覺得女性開車比男性開得好嗎？
+    
+    He jumped up, grinning broadly.
+    他跳了起來，咧嘴大笑。
+}
+
+broom {
+    n {
+        掃帚，金雀花
     }
 }
 
-brutal {
-    殘酷的，不仁道的
+bulletin {
+    n {
+        （電視或電臺的）新聞快報，（機構的）簡報
+    }
+    an hourly news bulletin
+    整點新聞快報
+    
+    The company publishes a weekly bulletin for its employees.
+    這家公司每週為員工出一期簡報。
 }
 
 burden {
     n {
         重擔
+    }
+    The little donkey struggled under its heavy burden.
+    小毛驢馱著重物艱難前行。
+    
+    the burden of responsibility
+    責任的重擔
+}
+
+burglar {
+    n {
+        入室竊賊
     }
 }
 
@@ -127,6 +606,17 @@ call on {
     她是個醫生，所以在週末常常要隨時準備出診。
 }
 
+campaign {
+    n {
+        活動，運動，戰役，作戰
+    }
+    v {
+        從事活動，開展運動，發起運動
+    }
+    This is the latest act of terrorism in a long-standing and bloody campaign of violence.
+    這是曠日持久的血腥暴力運動中最新的一次恐怖活動。
+}
+
 campus {
     n {
         校園
@@ -136,6 +626,26 @@ campus {
 candidate {
     n {
         候選人
+        
+        被認定會經歷
+        a person or thing considered likely to receive or experience something
+    }
+    The English Department is a likely candidate for staff cuts.
+    英語系很有可能要裁員。
+}
+
+cane {
+    n {
+        （某些植物的）莖，竹竿，拐杖，藤條
+    }
+    v {
+        用藤條打
+    }
+}
+
+canoe {
+    n {
+        獨木舟
     }
 }
 
@@ -147,18 +657,46 @@ capability {
 
 capacity {
     n {
-        能力
+        容積，容量，能力
+        
+        職位，工作，角色
     }
+    It seems to be beyond his capacity to (= he seems to be unable to) follow simple instructions.
+    他好像連簡單的指令也聽不懂。
+    
+    She was speaking in her capacity as a novelist, rather than as a television presenter.
+    她是以小說家而不是電視節目主持人的身分發言。
+}
+
+capital {
+    n {
+        首都，（某行業或活動的）中心，大寫字母，資本
+    }
+    adj {
+        大寫字母的，很棒的，極好的
+    }
+    That's a capital idea!
+    那主意好極了！
 }
 
 capitalism {
-    資本主義
+    n {
+        資本主義
+    }
 }
 
 captivity {
     n {
         囚禁
     }
+}
+
+carve {
+    v {
+        （尤指在石頭或木頭上）雕刻，把（熟肉）切成小片
+    }
+    Would you like me to carve (the chicken)?
+    您要我（把雞肉）切成小塊嗎？
 }
 
 catalogue {
@@ -178,25 +716,179 @@ catalogue {
     許多植物甚至還沒來得及編入目錄就已經滅絕了。
 }
 
-chaotic {
-    混亂的
+cease {
+    v {
+        停止，中止
+    }
+}
+
+chamber {
+    n {
+        房間，室，廳，議院
+    }
+}
+
+championship {
+    n {
+        （尤指體育比賽的）冠軍賽，錦標賽，冠軍稱號
+    }
+    She has held the championship for the past three years.
+    在過去三年裡她一直保持著冠軍稱號。
+}
+
+cherish {
+    v {
+        珍愛，愛護，珍藏
+        
+        懷有（希望，記憶），抱有（想法）
+        to keep hopes, memories, or ideas in your mind because they are important to you and bring you pleasure
+    }
+    Although I cherish my children, I do allow them their independence.
+    儘管我愛護自己的孩子，但我也的確允許他們獨立。
+    
+    I cherish the memories of the time we spent together.
+    我懷念我們共同度過的時光。
 }
 
 choke {
-    窒息
+    v {
+        （使）窒息，（使）哽噎，（使）呼吸困難
+        
+        堵塞
+        to fill something such as a road or pipe, so that nothing can pass through
+    }
+    At lunchtime the streets were choked with traffic.
+    午餐時大街上塞車了。
+}
+
+chorus {
+    n {
+        合唱部分，合唱曲，異口同聲
+    }
+    v {
+        齊聲說，異口同聲地說
+    }
+    They burst into a chorus of (= they sang the song) Happy Birthday.
+    他們突然開始齊唱「祝你生日快樂」。
+    
+    "Not now," the children chorused in unison, "we're watching TV."
+    「現在不要，」孩子齊聲嚷道，「我們在看電視。」
 }
 
 circular {
-    圓形的，傳單，公告
+    adj {
+        圓形的，傳單，公告
+    }
+}
+
+circulate {
+    v {
+        （使）循環，（使）傳遞
+        
+        （在聚會上）周旋
+        to move around at a party, etc., talking to different people
+        （在聚會上）周旋
+    }
+    I've circulated a good luck card for everyone to sign.
+    我拿了一張好運卡傳著讓每個人都簽名。
+    
+    I try to circulate at a party and not just stay with the friends I came with.
+    聚會上我盡量來回周旋廣交朋友，而不僅僅只和跟我一道來的朋友在一起。
+}
+
+circumstance {
+    n {
+        條件，情況，情形，形勢
+    }
+    I think she coped very well under the circumstances.
+    我覺得在那種情況下她處理得很不錯。
+    
+    We were obliged to go by force of circumstance.
+    形勢所逼，我們不得不走。
+}
+
+civilian {
+    n {
+        平民，老百姓
+    }
+}
+
+civilization {
+    n {
+        文明，文化，文明世界
+    }
+    Some people think that nuclear war would mean the end of civilization.
+    有人認為核戰爭將意味著文明的終結。
+}
+
+clash {
+    v {
+        打鬥，打架，發生衝突，爭論，爭辯
+        
+        （顏色或風格）不協調
+    }
+    The government and the opposition parties have clashed over the cuts in defence spending.
+    政府與反對黨派在削減國防開支的問題上發生了激烈的爭執。
+    
+    I like red and orange together, though lots of people think they clash.
+    我喜歡紅色和橙色相搭配，儘管許多人認為這兩種顏色不協調。
 }
 
 clasp {
-    緊握
+    v {
+        緊握
+    }
+    n {
+        緊握
+    }
+    She held the child's hand in a firm clasp as they crossed the road.
+    過馬路時，她緊緊握著孩子的手。
+}
+
+cliff {
+    n {
+        （常指海岸的）懸崖，峭壁
+    }
+}
+
+clumsy {
+    adj {
+        笨拙的，不靈活的，笨手笨腳，不靈巧
+    }
+    My attempts to apologize were very clumsy (= not said well).
+    我想道歉，卻拙嘴笨舌的。
+}
+
+coarse {
+    adj {
+        粗糙的，不柔軟的
+        
+        粗俗的，粗野的，無禮的
+    }
+    Linen is a coarse-grained fabric.
+    亞麻布是一種質地粗糙的布料。
+    
+    coarse language
+    粗話
+}
+
+colleague {
+    n {
+        同事，同僚
+    }
 }
 
 commemorate {
     v {
         紀念
+    }
+    A statue has been built to commemorate the 100th anniversary of the poet's birthday.
+    為紀念詩人百年誕辰建起了一尊雕像。
+}
+
+commerce {
+    n {
+        商業，商務，貿易，交易
     }
 }
 
@@ -206,13 +898,36 @@ commercial {
     }
 }
 
-communicatively {
-    溝通地
+commit {
+    v {
+        犯（罪，錯）
+        
+        承諾，保證，（使）忠於，（使）致力於，投入（時間或金錢）
+        
+        （正式地）將...送進（監獄或醫院）
+    }
+    Once we have committed to this course of action there is no going back.
+    一旦我們承諾採取這個行動，就沒有回頭路。
+    
+    He's been committed to prison for fraud.
+    他因詐騙而鋃鐺入獄。
 }
 
 competence {
     n {
         能力
+    }
+}
+
+competition {
+    n {
+        競爭，競賽，比賽，競爭對手，競爭者
+    }
+}
+
+competitive {
+    adj {
+        競爭的，競賽的，好競爭的，好勝的，（價格，服務等）具有競爭力的
     }
 }
 
@@ -230,7 +945,24 @@ compose {
     這音樂是專門為該電影創作的。
     
     The committee is composed of MPs, doctors, academics and members of the public.
-    委員會由議員、醫生、學者和普通民眾組成。
+    委員會由議員，醫生，學者和普通民眾組成。
+}
+
+composer {
+    n {
+        作曲家
+    }
+}
+
+composition {
+    n {
+        （音樂）作品，樂曲，構思，成分，構成，結構
+    }
+    the composition of the atmosphere
+    大氣的成分
+    
+    This concerto is one of her earlier/later compositions.
+    這首協奏曲是她早期／後期的作品之一。
 }
 
 concentrate {
@@ -240,17 +972,48 @@ concentrate {
     I can't concentrate on my work with all that noise.
     那麼吵，我沒法集中精力。
     
-    
     In the dry season, the animals tend to concentrate in the areas where there is water.
     在乾旱的季節，動物常常聚集在有水的地區。
 }
 
+concrete {
+    n {
+        混凝土
+    }
+    v {
+        用混凝土覆蓋
+    }
+    adj {
+        確定的，確實的，具體的
+    }
+    We have a general idea of what we want, but nothing concrete at the moment.
+    我們對需要甚麽有個大致的想法，可是具體的東西目前還沒有想好。
+}
+
 conductor {
-    (樂團的)指揮者，(火車)列車長，導體
+    n {
+        (樂團的)指揮者，(火車)列車長，導體
+    }
+}
+
+conference {
+    n {
+        會議，大會，討論會，協商會
+    }
+}
+
+confess {
+    v {
+        坦白，供認，招認，承認（錯誤或罪行），懺悔
+    }
+    He has confessed to the murder.
+    他供認了謀殺罪行。
 }
 
 confinement {
-    監禁
+    n {
+        監禁
+    }
 }
 
 confrontation {
@@ -259,13 +1022,130 @@ confrontation {
     }
 }
 
+congress {
+    n {
+        代表大會
+    }
+    n {
+        （美國）國會
+    }
+}
+
+conservative {
+    adj {
+        保守的，守舊的
+    }
+}
+
 considerate {
-    體諒的
+    adj {
+        體諒的
+    }
+}
+
+consistent {
+    adj {
+        一貫的，堅持的，始終如一的，一致的
+        
+        符合的
+    }
+    There has been a consistent improvement in her attitude.
+    她的態度一直在改進。
+    
+    What the witness said in court was not consistent with the statement he made to the police.
+    證人在法庭上的證供和他對警方的陳述不一致。
+}
+
+constitute {
+    v {
+        被視爲，形成，構成，組成
+    }
+}
+
+constitution {
+    n {
+        憲法，章程
+        
+        體質，體格
+        
+        組成，構成
+    }
+    Under (= as part of) the union constitution, a new committee is elected each year.
+    根據工會章程，委員會必須每年改選一次。
+    
+    He has a very strong constitution.
+    他體格很強壯。
+}
+
+consult {
+    v {
+        諮詢，請教
+    }
+}
+
+consultant {
+    n {
+        顧問，諮詢師
+    }
+}
+
+continual {
+    adj {
+        （通常指令人討厭或引起不便地）頻頻的，頻繁的，再三的
+    }
+    I've had continual problems with this car ever since I bought it.
+    自從我買回這車，它就常常出毛病
+}
+
+convention {
+    n {
+        大會，會議，傳統，（尤指社會）習俗，常規，慣例，（藝術，寫作上的）傳統手法，公約，協定
+    }
+}
+
+converse {
+    n {
+        相反，反面，相反的事物
+    }
+    v {
+        （和...）交談
+    }
+    In the US, you drive on the right-hand side of the road, but in the UK the converse applies.
+    在美國汽車靠右行駛，但在英國卻正好相反。
+    
+    She's so shy that conversing with her can be pretty hard.
+    她那麽害羞，跟她交談很難。
+}
+
+cottage {
+    n {
+        （通常指鄉村中的）小屋，村舍
+    }
+}
+
+council {
+    n {
+        委員會，理事會，（地區，鎮，市的）政務委員會，地方議會
+    }
 }
 
 counterpart {
     n {
         相對的人事物
+    }
+}
+
+courtesy {
+    n {
+        謙恭有禮的舉止，禮貌，禮節，客氣話
+    }
+    He could at least have had the courtesy to say sorry.
+    他至少應該知道說句對不起。
+}
+
+coward {
+    n {
+        膽小鬼，懦夫
     }
 }
 
@@ -276,7 +1156,56 @@ criminal {
 }
 
 cripple {
-    使成跛腳，跛子
+    n {
+        使成跛腳，跛子
+    }
+}
+
+critic {
+    n {
+        批評者，反對者
+        
+        （尤指電影，書籍，音樂等的）批評家，評論家
+    }
+    Her critics say she is leading the party to disaster.
+    批評她的人說她在把該黨引向災難。
+    
+    He's his own worst critic (= he judges himself severely).
+    他對自己要求非常嚴格。
+    
+    The play has been well received by the critics.
+    該劇贏得了評論家們的讚譽。
+}
+
+crunchy {
+    adj {
+        （食物）脆生生的，鬆脆的，鮮脆的
+    }
+}
+
+cue {
+    n {
+        提示，暗示，信號
+    }
+    v {
+        提示，暗示
+    }
+    They started washing up, so that was our cue to leave the party.
+    他們開始洗刷碗碟了，這就是暗示我們該離開派對了。
+}
+
+cunning {
+    adj {
+        狡猾的，狡詐的
+    }
+    n {
+        狡詐，狡猾，機靈
+    }
+    He's a very cunning man.
+    他爲人十分狡猾。
+    
+    We need to show some cunning if we want to defeat the enemy.
+    要想騙過敵人，我們得想點計策。
 }
 
 curriculum {
@@ -285,13 +1214,92 @@ curriculum {
     }
 }
 
+cushion {
+    n {
+        墊子，起保護（或緩衝）作用的事物
+    }
+    v {
+        對（某事物的影響或力量）起緩衝作用
+    }
+    You should aim to build up a cushion of money in case of emergencies.
+    你應該儘量留一些應急的錢。
+    
+    The soft grass cushioned his fall.
+    柔軟的草地減緩了他摔落時的衝力。
+}
+
 damp {
-    有濕氣的，潮濕的
+    adj {
+        有濕氣的，潮濕的{
+    }
 }
 
 decline {
     v {
         拒絕
+    }
+}
+
+degree {
+    n {
+        數量，程度，水準
+        
+        度數
+    }
+    There isn't the slightest degree of doubt that he's innocent.
+    毫無疑問，他是無辜的。
+    
+    To what degree do you think we will be providing a better service?
+    你認為我們的服務還有多大的改進空間？
+}
+
+delicate {
+    adj {
+        脆弱的，嬌嫩的，需要小心處理的，纖細的
+    }
+    Peaches have delicate skins which are easily bruised.
+    桃子的表皮很嬌嫩，容易碰傷。
+    
+    Molly's health has always been delicate (= she gets sick easily).
+    莫莉的身體一直都很嬌弱。
+}
+
+dense {
+    adj {
+        濃的，蠢的，密度大的
+    }
+    The body was found hidden in dense undergrowth.
+    屍體被發時藏在密密的樹叢下面。
+    
+    There are some really dense people in our class.
+    我們班有些人特別笨。
+}
+
+desperate {
+    adj {
+        非常嚴重的，非常糟糕的
+        
+        極端的
+        
+        非常需要的
+        
+        （因絕望而）拼命的，不顧一切的
+        
+        狂暴的
+    }
+    The situation is desperate - we have no food, very little water and no medical supplies.
+    形勢非常嚴峻——我們沒有食物和藥物，只有很少的水。
+    
+    The doctors made one last desperate attempt/effort to save the boy's life.
+    醫生們為挽救男孩的生命作了最後一次努力。
+    
+    This man is desperate and should not be approached since he may have a gun.
+    此人已是亡命之徒，可能還有槍，千萬不要靠近。
+}
+
+detective {
+    n {
+        偵探，警探
     }
 }
 
@@ -301,6 +1309,34 @@ devise {
     }
     He's good at devising language games that you can play with students in class.
     他善於設計可供師生在課堂上使用的語言遊戲。
+}
+
+dew {
+    n {
+        露，露水
+    }
+}
+
+diagram {
+    n./adj. 圖，圖解，示意圖，用圖解的方式，以畫圖的方式
+}
+
+dignity {
+    n {
+        莊重，端莊，尊嚴，自尊，自尊心
+    }
+}
+
+diligence {
+    n {
+        （為保證自身，他人或財產安全而採取的）審慎行為，（与某公司有业务往来之前对其本身以及其财务状况进行的）必要核计，必要了解
+    }
+}
+
+diligent {
+    adj {
+        認真刻苦的，勤奮的，勤勞的，細致的，潛心的
+    }
 }
 
 diminish {
@@ -318,6 +1354,12 @@ diminish {
 diploma {
     n {
         文憑
+    }
+}
+
+diplomat {
+    n {
+        （通常指使館的）外交官，善於社交的人，會與人打交道的人
     }
 }
 
@@ -355,6 +1397,15 @@ disguise {
     微小的皮膚瑕疵通常可以用化妝品來掩蓋。
 }
 
+disgust {
+    n {
+        厭惡，憎惡，反感
+    }
+    v {
+        使厭惡，使憎惡，使反感
+    }
+}
+
 dispose of {
     丟棄，擊敗
     to get rid of someone or something or deal with something so that the matter is finished
@@ -366,6 +1417,19 @@ dispose of {
     世界冠軍只用五分鐘就擊敗了對手。
 }
 
+dispute {
+    n {
+        （尤指勞資雙方或相鄰兩國之間的）爭執，爭端，糾紛，毫無爭議地，無可爭辯地，不容置疑地，受到懷疑的，不確定的，不肯定的
+    }
+    v./n. （對...）有異議，不贊同，異議，爭議，紛爭
+}
+
+distinct {
+    adj {
+        顯著的，明顯的，確實的，明顯不同的，差別明顯的，而不是
+    }
+}
+
 distinguish {
     v {
         識別
@@ -374,22 +1438,123 @@ distinguish {
     分清什麼是正事什麼是娛樂非常重要。
 }
 
+distinguished {
+    adj {
+        傑出的，突出的，卓越的，（尤指長者）氣度不凡的，高雅的，睿智的
+    }
+}
+
+diverse {
+    adj {
+        多種多樣的，形形色色的，不同的，相異的
+    }
+}
+
+diversity {
+    n {
+        多樣性，多樣化，差異，不同點，差異性
+    }
+}
+
+divine {
+    adj {
+        神的，像神一樣的，極好的，美妙的，美好的
+    }
+    v {
+        猜，猜測，估計，（用丫形杖）探測（地下水或礦藏）
+    }
+}
+
+divorce {
+    n {
+        離婚，分離，分隔
+    }
+    v {
+        （與...）離婚，割裂，分割（主題）
+    }
+    n {
+        離了婚尚未再婚的男人
+    }
+}
+
+dodge {
+    v {
+        躲閃，避開，回避，逃避
+    }
+    n {
+        （巧妙而具欺騙性的）逃避
+    }
+}
+
+dominant {
+    adj {
+        主要的，主導的，佔優勢的，（基因）顯性的
+    }
+}
+
+dominate {
+    v {
+        統治，控制，在...中占首要地位，擁有優勢，最明顯的
+    }
+}
+
 dorm {
     n {
         宿舍
     }
 }
 
+draft {
+    n {
+        草案，草稿，草圖，兵役制，（美國職業球隊在賽季之初選拔新隊員的）選秀制度，（尤指向銀行支付的）匯票，冷空氣，吃水深度，（飲品等）桶裝，散裝
+    }
+    adj {
+        （啤酒等）桶裝的，散裝的，（動物）供使役用的
+    }
+    v {
+        起草（文件，計劃等），草圖，圖樣，設計圖，徵兵
+    }
+    adj {
+        草擬的，草稿的，（啤酒等）桶裝的，散裝的，（動物）供使役用的
+    }
+}
+
+dread {
+    v {
+        對...感到恐懼，害怕，擔心，不願想，不敢想
+    }
+    n./adj./adj. 恐懼，害怕，憂慮，可怕的，令人畏懼的，令人生畏的，令人害怕的，令人恐懼的
+}
+
 dress code {
     服儀規定
 }
 
+drift {
+    v {
+        （尤指在外力作用下）飄，漂流，漂移
+    }
+    n {
+        大意，主旨，大致明白某人所說的話，你明白我的意思吧，（風吹積而成的）一堆（雪等），局勢變化
+    }
+}
+
 drill {
-    鑽(洞)，訓練，鑽頭，訓練
+    n {
+        鑽(洞)，訓練，鑽頭，訓練
+    }
 }
 
 drive ... away {
     驅趕走
+}
+
+drowsy {
+    adj {
+        昏昏欲睡
+    }
+    The room is so warm it's making me feel drowsy.
+    房間非常暖和，讓我有些昏昏欲睡。
 }
 
 dump into {
@@ -397,11 +1562,15 @@ dump into {
 }
 
 durable {
-    持久的，耐用的
+    adj {
+        持久的，耐久的
+    }
 }
 
-dynamic {
-    充滿活力的
+dynasty {
+    n {
+        王朝，朝代
+    }
 }
 
 earnest {
@@ -419,6 +1588,36 @@ eccentric {
     }
 }
 
+economic {
+    adj {
+        經濟的，經濟上的，産生經濟效益的，有利可圖的，能賺錢的
+    }
+}
+
+economical {
+    adj {
+        經濟的，省錢的，節約的
+    }
+}
+
+economics {
+    n {
+        經濟狀況，經濟因素，經濟學
+    }
+}
+
+economist {
+    n {
+        經濟學家
+    }
+}
+
+economy {
+    n {
+        經濟，經濟制度，節省，節約，節儉
+    }
+}
+
 elapsing {
     v {
         流逝，過去
@@ -428,12 +1627,31 @@ elapsing {
     他大學畢業都四年了，但還沒有找到工作。
 }
 
+elastic {
+    adj {
+        有彈性的，靈活的，易順應（變化）的
+    }
+    n {
+        鬆緊帶，橡皮筋
+    }
+}
+
 elegant {
-    高雅的，有氣質的，漂亮的
+    adj {
+        高雅的，有氣質的，漂亮的
+    }
 }
 
 elementary {
-    初級的，基本的
+    adj {
+        初級的，基本的
+    }
+}
+
+eliminate {
+    v {
+        排除，消除，清除，（比賽中）淘汰，消滅，幹掉
+    }
 }
 
 embark on {
@@ -444,8 +1662,31 @@ embark on {
     今年晚些時候我們會著手進行一個新企劃。
 }
 
-enclose {
-    封上，附寄
+embassy {
+    n {
+        大使館全體人員，使館館員，大使館
+    }
+}
+
+emerge {
+    v {
+        出現，浮現，露出，（從困境中）擺脫出來，存活下來，（尤指經過審查或訊問後）為人知曉，顯露，暴露
+    }
+}
+
+encounter {
+    n {
+        偶然相遇，邂逅，不期而遇，（對象通常爲陌生人的）性經歷，（體育）比賽，交鋒
+    }
+    v {
+        邂逅，不期而遇，偶然碰到，遭遇，遇到（尤指不愉快的事情）
+    }
+}
+
+endure {
+    v {
+        忍耐，忍受，持續，持久
+    }
 }
 
 energetic {
@@ -454,8 +1695,16 @@ energetic {
     }
 }
 
-enlarge {
-    放大
+enforce(ment) {
+    v {
+        使服從（法律），（強制）實行，執行，把...強加於
+    }
+}
+
+enormous {
+    adj {
+        極大的，巨大的，龐大的
+    }
 }
 
 entanglement {
@@ -466,19 +1715,106 @@ entanglement {
     這本書描述了這個團體成員之間複雜混亂的感情糾葛和肉體關係。
 }
 
+era {
+    n {
+        時代，年代
+    }
+}
+
+estimate {
+    v {
+        估計，估算，估價
+    }
+    n {
+        和動詞一樣
+    }
+}
+
+ethnic {
+    adj {
+        民族的，種族的，異族的，具有民族特色的，異國風味的
+    }
+    n {
+        少數民族的一員
+    }
+}
+
+evaluate {
+    v {
+        評估，評價，估值
+    }
+}
+
+evaluation {
+    n {
+        工作評估，職位評定
+    }
+}
+
+evident {
+    adj {
+        顯然易見的，明白的，明顯的
+    }
+}
+
 examiner {
     檢查考
 }
 
+exhaust {
+    v {
+        使筋疲力竭，使疲憊不堪，用完，花光，耗盡
+    }
+    n {
+        （引擎排出的）廢氣，（尤指汽車的）尾氣，排氣管
+    }
+}
+
 exhibit {
     v {
-        展現
+        展出，展覽，展示
+    }
+    n {
+        展品，展出物，陳列品，（一批）展品，展覽，（法庭上出示的）證據，物證
+    }
+}
+
+expand {
+    v {
+        （使）（尺寸，數量或重要性）擴大，增加，（使）膨脹
+    }
+}
+
+expansion {
+    n {
+        （尺寸，數量或重要性的）擴大，增加，擴展
     }
 }
 
 expense {
     n {
         費用
+    }
+}
+
+extend {
+    v {
+        擴大，擴展，使增加長度，延長，使延期，伸，伸出，伸開，展開，伸展，延伸，延續，提供，給予，包括，影響到，適用於，使發揮才幹，使盡用其才，使竭盡全力
+    }
+}
+
+extent {
+    n {
+        面積，範圍，長度，數量，（某事可能發生的）程度，到達...的程度，到...地步，到...程度，到...地步，以至於，在同樣的程度上，同樣，一樣，在某種程度上，到如此地步，在多大程度上?
+    }
+}
+
+facial {
+    adj {
+        面部的，臉上的
+    }
+    n {
+        面部美容護理
     }
 }
 
@@ -490,6 +1826,24 @@ faculty {
 
 faint {
     頭暈的
+}
+
+faithful {
+    adj {
+        忠誠的，忠實的，（配偶或性伴侶）忠誠的，忠貞的，對...忠誠，如實的，絲毫不作改動的，虔誠的
+    }
+    n {
+        忠實支持者
+    }
+    n {
+        忠實信徒，（尤指政黨的）忠誠支持者，虔誠信眾，忠實信徒
+    }
+}
+
+fantasy {
+    n {
+        幻想，想像，魔幻故事，奇幻文學
+    }
 }
 
 farewell {
@@ -504,6 +1858,35 @@ fascinated {
     著迷的
 }
 
+fasten {
+    v {
+        扣緊，繫牢，紮好，關緊，把...固定在（...上）／在一起（等等）
+    }
+}
+
+fax {
+    n {
+        傳真件，傳真電文，傳真信件，傳真機
+    }
+    v {
+        發傳真
+    }
+}
+
+feast {
+    n {
+        盛宴，宴會，（感官）享受，令人喜愛的事物，（宗教）節日
+    }
+}
+
+fend off {
+    v {
+        抵擋，推開，擊退
+    }
+    He managed to fend off his attackers with a stick.
+    他用一根棍子成功擊退了攻擊者。
+}
+
 fermentation {
     n {
         發酵
@@ -512,8 +1895,79 @@ fermentation {
     乙醇是一種由糖類發酵產生的酒精。
 }
 
+ferry {
+    n {
+        （尤指定期的）渡船，渡輪
+    }
+    v {
+        （尤指定期）渡運，運送
+    }
+}
+
 fiction {
-    虛構的
+    n {
+        虛構的
+    }
+}
+
+fierce {
+    adj {
+        猛烈的，激烈的，駭人的，狂暴的，強烈的，狂熱的，困難的
+    }
+}
+
+finance {
+    n {
+        資金，財務管理，財政，金融，（個人或公司的）財源，財力
+    }
+    v {
+        向...提供資金
+    }
+}
+
+flatter {
+    v {
+        奉承，討好，自命不凡，以假像蒙人，掩人耳目，被奉承得高興，感到榮幸，使...顯得更吸引人
+    }
+}
+
+flea {
+    n {
+        蚤，跳蚤
+    }
+}
+
+flee {
+    v {
+        （尤指因危險或恐懼而）逃跑，逃出國
+    }
+}
+
+fluent {
+    adj {
+        （指人說某種語言）流利的，（語言）講得流利的
+    }
+}
+
+flush {
+    v {
+        發紅，臉紅，沖洗（抽水馬桶），從馬桶沖走
+    }
+    adj {
+        （與另一平面）齊平的，有錢的，富有的
+    }
+    n {
+        （因尷尬，發熱等原因）臉紅，皮膚發紅，一陣憤怒／激動／高興，沖廁所，馬桶的沖水把手（或按鈕），同花的一手牌
+    }
+}
+
+foam {
+    n {
+        泡沫，泡沫劑，泡沫橡膠，海綿橡膠
+    }
+    v {
+        起泡沫，（因發病）口吐白沫
+    }
 }
 
 fond {
@@ -528,7 +1982,6 @@ food for thought {
     令人深思的事物
     to make someone think seriously about something
     
-    
     The lecture was really interesting! It gave me a lot of food for thought.
     這堂課真的很有意思，給我留下了很多值得思考的問題。
 }
@@ -540,8 +1993,87 @@ for the time being {
     我們暫時把這件事情擱一下吧。
 }
 
+forsake {
+    v {
+        離開，拋棄，遺棄
+        to leave someone for ever, especially when they need you
+        
+        放棄
+        to stop doing or having something
+    }
+    He decided to forsake politics for journalism.
+    他決定離開政界，轉向新聞界。
+}
+
+foundation {
+    n {
+        創建，建立，基金會，（幼兒學校）基礎班，地基，房基，無根據，（化妝打底用的）粉底霜
+    }
+}
+
+founder {
+    n {
+        創立者，創建者，創辦者
+    }
+    v {
+        （尤指船）沉沒
+        
+        失敗
+        to be unsuccessful
+    }
+    The ferry foundered in a heavy storm, taking many of the passengers and crew with it.
+    這艘渡船在一次強風暴中沉沒，很多乘客和船員遇難。
+    
+    Teaching computers to read and write has always foundered on the unpredictable human element in language.
+    教電腦讀寫的嘗試總是因為語言中不可預測的人為因素而宣告失敗。
+}
+
+fragile {
+    adj {
+        易損壞的，易碎的，脆弱的
+    }
+}
+
+frame {
+    n {
+        （圖畫，門，窗的）框，框架，眼鏡框架，（建築物，車輛或傢俱的）構架，支架，骨架，（桌球，撞球等運動中開球時使用的）三角框，體格，骨架，心態，心境，（某人的行為，看法或決定所依據的）參照準則，觀念體系，（撞球等遊戲的）一局，（攝影膠片的）畫格，（電視或電影的）畫面，鏡頭
+    }
+    v {
+        （措詞謹慎地）表達，說出，陷害，誣陷，給（圖畫等）裝（鏡）框，修飾...的邊緣
+    }
+}
+
+frost {
+    n {
+        霜
+    }
+    v {
+        結霜，給（糕餅等）撒糖霜
+    }
+    Leave the cake to cool before frosting it.
+    等蛋糕晾涼了再撒糖霜。
+}
+
 frown {
-    皺眉頭
+    v {
+        皺眉頭
+    }
+}
+
+funeral {
+    n {
+        葬禮，喪禮
+    }
+}
+
+furious {
+    adj./n. 極其生氣的，怒不可遏的，強烈的，激烈的
+}
+
+furnish {
+    v {
+        爲...配備傢俱，佈置（傢俱）
+    }
 }
 
 furniture {
@@ -556,6 +2088,30 @@ gamble {
     }
 }
 
+gear {
+    n {
+        檔，排檔，傳動裝置
+    }
+    Does your car have five or six gears?
+    你的車是四檔的還是五檔的？
+}
+
+genuine {
+    adj./adj. 真正的，非僞造的，名副其實的，真誠的，誠實的，真心的，確實，的確
+}
+
+germ {
+    n {
+        病菌，細菌，（通常指發展成為巨大或重要事物）的發端，發源，萌芽
+    }
+}
+
+gigantic {
+    adj {
+        巨大的，龐大的
+    }
+}
+
 give priority to {
     優先考慮，公佈，宣傳
     
@@ -566,14 +2122,111 @@ give priority to {
     我們現在可以公佈這項政策了。
 }
 
+glorious {
+    adj {
+        輝煌的，光榮的，榮耀的，美麗的，壯麗的，令人愉快的，（尤指天氣）極好的，極為怡人的，極其令人愉快的
+    }
+}
+
+gown {
+    n {
+        （尤指正式場合穿的）女式禮服，（特定場合穿的）長袍，罩衣，長外衣
+    }
+}
+
+grace {
+    n {
+        優美，優雅，雍容，文雅，通情達理，體面，風度，（尤指上帝賜予人類的）恩典，恩寵，承蒙上帝的恩典，上帝開恩，（基督徒的）飯前感恩禱告，寬限期，延緩期
+    }
+    v {
+        使優美，為...增色，使增輝，光臨...而使之蓬篳生輝，蒞臨而為（某人）增光
+    }
+    n {
+        大人，閣下，夫人（對公爵，公爵夫人，女公爵或大主教的尊稱）
+    }
+}
+
+graceful {
+    adj {
+        優美的，優雅的，雅致的，得體的，體面的，有風度的
+    }
+}
+
+gracious {
+    adj {
+        慈祥的，和藹的，有禮貌的，富足安逸的，華美的
+    }
+}
+
 grant {
     n {
         獎學金
     }
 }
 
+gratitude {
+    n {
+        感激之情，感謝
+    }
+}
+
+grave {
+    n {
+        墳墓，墓穴，埋葬處
+    }
+    adj {
+        嚴重的，重大的，嚴峻的
+    }
+}
+
+greasy {
+    adj {
+        沾滿油脂的，含脂肪的，油膩的
+    }
+}
+
 grief {
-    哀傷
+    n {
+        哀傷
+    }
+    Newspapers should not intrude on people's private grief.
+    報紙不應再去侵擾那些正承受喪親之痛的人們。
+}
+
+groom {
+    n {
+        新郎，即將（或剛）結婚的男子
+    }
+}
+
+guardian {
+    n {
+        監護人，保護者，護衛者，維護者
+    }
+}
+
+guilt {
+    n {
+        內疚，愧疚，自責，過失，犯罪，罪責
+    }
+}
+
+guilty {
+    adj {
+        內疚的，愧疚的，自責的，有過失的，犯了罪的，有罪責的，有過錯的一方，犯罪的一方
+    }
+}
+
+gulf {
+    n {
+        海灣，波斯灣，波斯灣各國，海灣國家，（地面的）裂口，深坑，深淵，不可逾越的鴻溝，巨大的差距，隔閡
+    }
+}
+
+habitual {
+    adj {
+        通常的，習慣性的
+    }
 }
 
 haste {
@@ -655,7 +2308,7 @@ inadequate {
 
 incidence {
     n {
-        發生、事件
+        發生，事件
     }
 }
 
@@ -699,6 +2352,15 @@ intimate {
     親密的，有性關係的，私人的，密友
 }
 
+juvenile {
+    n {
+        少年
+    }
+    adj {
+        幼稚的，不成熟的
+    }
+}
+
 knuckle {
     關節，指關節(尤指第一節)，(供食用的)蹄
 }
@@ -709,6 +2371,14 @@ loosely {
 
 magnetic {
     磁石的，磁場的，有吸引力的
+}
+
+make allowance for {
+    顧及，考慮到；為…留出餘地
+    to prepare for the possibility of
+    
+    We should make allowance for bad weather and have plenty of umbrellas available.
+    我們應該考慮到有可能會遇上惡劣天氣，所以應該備足雨傘。
 }
 
 marvel at {
@@ -722,6 +2392,14 @@ medieval {
     adj {
         中世紀的
     }
+}
+
+mentorship {
+    n {
+        （在工作上或學校裡）提供指導
+    }
+    The organization provides mentorship and support for psychology trainees.
+    該組織為心理學實習生提供指導和支持。
 }
 
 mild {
@@ -740,6 +2418,14 @@ morale {
 
 mutter {
     喃喃自語
+}
+
+mutually {
+    adv {
+        互相地
+    }
+    Being rich and being a Socialist are not mutually exclusive (= they can exist together at the same time).
+    身為富人和身為社會主義者並不相互排斥。
 }
 
 nasty {
@@ -777,8 +2463,36 @@ notion {
     概念
 }
 
+off the hook {
+    脫離困境，脫身
+    
+    John's agreed to go to the meeting in my place so that gets/lets me off the hook.
+    約翰答應幫我去開會，這樣我就能脫身了。
+}
+
+on cue {
+    正好在此時
+    
+    I was just wondering where Sarah was, when, right on cue, she came in.
+    我正奇怪薩拉去哪了，恰在這時，她就進來了。
+}
+
 oral {
     口語的
+}
+
+ought to {
+    應該，應當
+    
+    "We ought to be getting ready now." "Yes, I guess we ought (to)."
+    「我們現在應該做好準備了。」「對，我想是的。」
+}
+
+out of blue {
+    出乎意料地；突然
+    
+    One day, out of the blue, she announced that she was leaving.
+    有一天，她突然宣佈要走。
 }
 
 oval {
@@ -835,6 +2549,26 @@ preferable {
     更合人意的，更好的
 }
 
+presume {
+    v {
+        假定，推定，認定
+        
+        冒昧（做），擅（做）；越權行事
+        to do something although you know that you do not have a right to do it
+    }
+    "Are we walking to the hotel?" "I presume not/so."
+    「我們要步行到旅館嗎？」「我想不是／是的。」
+    
+    The universe is presumed to contain many other planets with some form of life.
+    據推測，宇宙中很多其他行星上有某種形式的生命存在。
+    
+    I don't wish to presume (= make a suggestion although I have no right to), but don't you think you should apologize to her?
+    恕我冒昧，但你難道不覺得應該向她道歉嗎？
+    
+    He presumes on her good nature (= takes unfair advantage of it).
+    他利用了她的善良本性。
+}
+
 procession {
     n {
         隊伍
@@ -861,6 +2595,10 @@ punctual {
 
 rage {
     憤怒，狂熱
+}
+
+rave review {
+    好評如潮
 }
 
 recite {
@@ -938,7 +2676,7 @@ specialize in {
 
 splay {
     v {
-        展開、張開
+        展開，張開
     }
     At one point the dancers flipped onto their backs and splayed their legs.
     舞蹈演員們的一個動作是翻身背部著地，雙腿叉開。
@@ -997,6 +2735,20 @@ sustain {
     她在這次事故中有多處受傷。
 }
 
+swagger {
+    v {
+        昂首闊步
+    }
+    n {
+        昂首闊步
+    }
+    His swaggering self-confidence irritates many people.
+    他趾高氣昂的自負神態激怒了很多人。
+    
+    Underneath all his swagger he's actually pretty nervous.
+    雖然表面上一副自命不凡的樣子，但實際上他很緊張。
+}
+
 take a course {
     修課
 }
@@ -1007,6 +2759,14 @@ telegraph {
 
 thoughtful {
     體諒的，有思想的
+}
+
+through the agency of {
+    由於（某人）的作用；在（某人）的推動下
+    because of the actions of someone
+    
+    She was freed from prison through the agency of her doctor.
+    在她的醫生的推動下，她獲釋出獄。
 }
 
 toss and turn {
