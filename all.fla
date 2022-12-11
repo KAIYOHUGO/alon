@@ -233,6 +233,15 @@ amateur {
     }
 }
 
+amenity {
+    n {
+        生活福利設施，便利設施；娛樂消遣設施
+        something, such as a swimming pool or shopping centre, that is intended to make life more pleasant or comfortable for the people in a town, hotel, or other place
+    }
+    The council has some spare cash, which it proposes to spend on public amenities.
+    政務委員會有一些餘款，計劃用來增添一些公共便利設施。
+}
+
 amuse {
     v {
         （尤指透過幽默的言行）逗樂，逗笑
@@ -503,6 +512,14 @@ beyond (all) dispute {
     無可置疑，他是當今好萊塢最好的演員。
 }
 
+bias {
+    n {
+        偏見；偏心；偏袒
+    }
+    Reporters must be impartial and not show political bias.
+    新聞記者必須公正，不應有政治偏見。
+}
+
 biography {
     n {
         傳記
@@ -587,6 +604,17 @@ bond {
     膠水凝固之後，黏合處是防水的。
 }
 
+boom {
+    n {
+        增長，繁榮
+    }
+    The insurance business suffered from a vicious cycle of boom and bust.
+    保險業經歷了繁榮和蕭條的惡性循環。
+    
+    This year has seen a boom in book sales.
+    今年圖書銷售激增。
+}
+
 breed {
     v {
         （為育種目的）飼養，（動物）交配繁殖，招致，導致
@@ -604,6 +632,23 @@ breed {
     阿列蒂是那種少見的女演員——漂亮、性感、幽默。
 }
 
+breeze {
+    n {
+        和風，微風
+        
+        輕盈而自信地走
+        to walk somewhere quickly and confidently, without worry or embarrassment
+    }
+    a warm/cool breeze
+    和煦／涼爽的風
+    
+    She let the gentle breeze cool her face.
+    她任由清涼的微風吹拂著自己的臉頰。
+    
+    She just breezed in as if she'd only been away a day instead of a year.
+    她如風似地走進來，好像她只離開了一天而不是一年。
+}
+
 broadly {
     adv {
         廣泛地，概括地
@@ -616,6 +661,17 @@ broadly {
     
     He jumped up, grinning broadly.
     他跳了起來，咧嘴大笑。
+}
+
+brood {
+    n {
+        一窩雛鳥
+    }
+    v {
+        憂思，擔憂
+    }
+    I wish she wouldn't sit brooding in her room all day.
+    我希望她不要整天呆在房間裡憂心忡忡的。
 }
 
 broom {
@@ -815,6 +871,14 @@ cherish {
     我懷念我們共同度過的時光。
 }
 
+chilli {
+    n {
+        辣椒
+    }
+    I've made a chilli for tonight.
+    今天晚上我做了辣味肉豆。
+}
+
 choke {
     v {
         （使）窒息，（使）哽噎，（使）呼吸困難
@@ -914,6 +978,13 @@ cliff {
     n {
         （常指海岸的）懸崖，峭壁
     }
+}
+
+close at hand {
+    在附近，即將發生
+    
+    Your big moment is at hand.
+    你的重大時刻即將到來。
 }
 
 clumsy {
@@ -1246,6 +1317,14 @@ crunchy {
     adj {
         （食物）脆生生的，鬆脆的，鮮脆的
     }
+}
+
+cubicle {
+    n {
+        小房間，小隔間
+    }
+    a shower cubicle
+    淋浴間
 }
 
 cue {
@@ -1970,6 +2049,14 @@ fax {
     }
 }
 
+feasible {
+    adj {
+        可行的
+    }
+    It may be feasible to clone human beings, but is it ethical?
+    複製人類也許可以做到，但是這合乎道德嗎？
+}
+
 feast {
     n {
         盛宴，宴會，（感官）享受，令人喜愛的事物，（宗教）節日
@@ -2467,15 +2554,40 @@ juvenile {
 }
 
 knuckle {
-    關節，指關節(尤指第一節)，(供食用的)蹄
+    關節，指關節(尤指第一節)
+}
+
+likewise {
+    adv {
+        同樣，照樣，也一樣
+        in the same way
+    }
+    Just water these plants twice a week, and likewise the ones in the bedroom.
+    這些植物一周澆兩次水，臥室裡的那些也一樣。
 }
 
 loosely {
-    寬鬆的
+    adv {
+        寬鬆的
+        
+        大致地，大概
+        not exactly
+    }
+    The parcel had only been loosely wrapped, and the paper had come off.
+    包裹沒有包紮好，上面的包裝紙已經脫落了。
+    
+    The film is loosely based on the novel by Kundera.
+    這齣電影是根據昆德拉的小說的大致內容改編而成的。
 }
 
 magnetic {
-    磁石的，磁場的，有吸引力的
+    adj {
+        磁場的
+        
+        有吸引力的
+    }
+    a magnetic person
+    有魅力的人
 }
 
 make allowance for {
@@ -2497,6 +2609,8 @@ medieval {
     adj {
         中世紀的
     }
+    a medieval manuscript
+    中世紀的手稿
 }
 
 mentorship {
@@ -2508,21 +2622,55 @@ mentorship {
 }
 
 mild {
-    溫和的(天氣，個性)
+    adj {
+        溫和的(天氣，個性)
+        not violent, severe, or extreme
+    }
+    She can't accept even mild criticism of her work.
+    即使別人對她的作品略有微詞，她也不能接受。
+    
+    We've had a mild winter this year.
+    我們今年過了個暖冬。
+    
+    a mild chilli sauce
+    微辣的辣椒醬
 }
 
 mist {
-    薄霧
+    n {
+        薄霧
+        
+        水汽，水蒸氣
+        a thin layer of liquid on the surface of something that makes it difficult to see
+    }
+    The mountain villages seem to be permanently shrouded in mist.
+    山村好像永遠籠罩在薄霧之中。
+    
+    Through a mist of tears, I watched his train pull out of the station.
+    我淚眼模糊，看著他乘坐的火車駛離車站。
 }
 
 morale {
     n {
         士氣
     }
+    There have been a lot of job losses recently so morale is fairly low.
+    近來裁員很多，所以士氣很低。
 }
 
 mutter {
-    喃喃自語
+    v {
+        喃喃自語
+        to speak quietly and in a low voice that is not easy to hear, often when you are worried or complaining about something
+        
+        低語
+        (the sound of) words being said very quietly
+    }
+    I heard the soft mutter of voices in the next room.
+    我聽到隔壁有人輕聲低語。
+    
+    Stop muttering and speak up!
+    別咕噥了，大聲說出來！
 }
 
 mutually {
@@ -2641,6 +2789,12 @@ out of blue {
 oval {
     adj {
         卵形的，橢圓形
+    }
+}
+
+parcel {
+    n {
+        包裹
     }
 }
 
@@ -2779,6 +2933,13 @@ prosper {
     }
     Lots of microchip manufacturing companies prospered at that time.
     許多生產晶片的公司都是在那時候發達起來的。
+}
+
+pull out {
+    （車輛）開出，離去
+    
+    A car pulled right out in front of me.
+    一輛小轎車正好開到我的面前。
 }
 
 punctual {
@@ -3088,6 +3249,14 @@ undergo {
     }
     She underwent an operation on a tumour in her left lung last year.
     她在去年做了一次左肺腫瘤切除手術。
+}
+
+unprecedented {
+    adj {
+        史無前例的，空前的
+    }
+    This century has witnessed environmental destruction on an unprecedented scale.
+    環境在本世紀遭到了空前的破壞
 }
 
 vague {
