@@ -12,6 +12,14 @@ a fact of life {
     禿頭是無法避免的事情。
 }
 
+a poverty of {
+    …的缺少
+    a lack of something or when the quality of something is extremely low
+    
+    There is a disappointing poverty of creativity in their work.
+    他們的工作缺乏創造性，令人失望。
+}
+
 abandon {
     v {
         離棄，放棄，遺棄，放縱
@@ -1907,15 +1915,6 @@ extent {
     }
 }
 
-facial {
-    adj {
-        面部的，臉上的
-    }
-    n {
-        面部美容護理
-    }
-}
-
 faculty {
     n {
         教職人員
@@ -2082,6 +2081,14 @@ food for thought {
     
     The lecture was really interesting! It gave me a lot of food for thought.
     這堂課真的很有意思，給我留下了很多值得思考的問題。
+}
+
+for all practical purposes {
+    實際上
+    = in fact
+    
+    Dr Frampton is in charge, but for all practical purposes, her assistant runs the office.
+    理論上是弗蘭普頓博士負責，但實際上是她的助手在管理辦公室。
 }
 
 for the time being {
@@ -2529,7 +2536,20 @@ mutually {
 nasty {
     adj {
         討厭的
+        
+        不友善的
+        
+        粗魯的，冒犯的
+        rude or offensive
     }
+    She has a nasty habit of picking on people in meetings.
+    她有一個壞習慣，經常在會上故意挑別人的毛病。
+    
+    Don't be so nasty to your brother - he's four years younger than you!
+    別對你弟弟這麼兇——他可比你小四歲！
+    
+    She said some really nasty things about him.
+    她說了一些惡意中傷他的話。
 }
 
 nausea {
@@ -2550,15 +2570,27 @@ necessarily {
 }
 
 newcomer {
-    新手
+    n {
+        新手
+    }
+    We're relative newcomers to the town.
+    我們在鎮上相對來說還是新住戶。
 }
 
 nonsense {
-    胡說八道，廢話
+    n {
+        胡說八道，廢話
+    }
+    The accusations are (absolute/complete/utter) nonsense.
+    這些指控純屬子虛烏有。
 }
 
 notion {
-    概念
+    n {
+        觀念，看法
+    }
+    I have only a vague notion of what she does for a living.
+    我不太清楚她靠甚麼謀生。
 }
 
 off the hook {
@@ -2576,7 +2608,20 @@ on cue {
 }
 
 oral {
-    口語的
+    adj {
+        口頭的
+        
+        口腔的
+        of, taken by, or done to the mouth
+    }
+    n {
+        口試
+    }
+    an oral agreement/exam
+    口頭協議／口試
+    
+    When do you have your Spanish oral (= exam in spoken Spanish)?
+    你們甚麼時候進行西班牙語口試？
 }
 
 ought to {
@@ -2594,7 +2639,9 @@ out of blue {
 }
 
 oval {
-    卵形的，橢圓形，橢圓
+    adj {
+        卵形的，橢圓形
+    }
 }
 
 pass down {
@@ -2605,21 +2652,35 @@ pass down {
 }
 
 pebble {
-    鵝卵石
+    n {
+        鵝卵石
+    }
+    This part of the coast has pebble beaches.
+    海岸的這一部分有幾處礫石海灘。
 }
 
 penalty {
-    懲罰
+    n {
+        懲罰
+    }
+    The protesters were told to clear the area around the building, on penalty of arrest (= or be arrested) if they did not.
+    抗議人士被告知離開大樓周圍的地區，否則將被捕。
 }
 
 persuasive {
     adj {
         說服力的
     }
+    Your arguments are very persuasive.
+    你的論據非常有說服力。
 }
 
 pessimistic {
-    悲觀的
+    adj {
+        悲觀的
+    }
+    The doctors are pessimistic (= not hopeful) about his chances of recovery.
+    醫生對他康復的可能性都表示悲觀。
 }
 
 plan out {
@@ -2630,21 +2691,36 @@ plan out {
 }
 
 portray {
-    描述，描繪
+    v {
+        描述，描繪
+    }
+    The writer portrays life in a small village at the turn of the century.
+    作家描寫了世紀之交一個小村莊的生活。
 }
 
 poverty {
-    貧窮
+    n {
+        貧窮
+    }
+    Two million people in the city live in abject (= very great) poverty.
+    這個城市有兩百萬人生活在赤貧中。
 }
 
 practical {
     adj {
-        實用的
+        實際的，實用的
     }
+    Qualifications are important but practical experience is always a plus.
+    資歷固然重要，但實際經驗總是個優勢。
 }
 
 preferable {
-    更合人意的，更好的
+    adj {
+        更合人意的，更好的
+        better or more suitable
+    }
+    Surely a diplomatic solution is preferable to war.
+    外交途徑當然要比戰爭好。
 }
 
 presume {
@@ -2670,29 +2746,61 @@ presume {
 procession {
     n {
         隊伍
+        
+        一系列，一長串
+        a series of people or things, one after the other
     }
+    a wedding/funeral procession
+    婚禮／葬禮的行列
+    
+    My day has just been a never-ending procession of visitors.
+    我今天一整天來訪的客人絡繹不絕。
 }
 
 profitable {
-    有利潤的，有益的
+    adj {
+        有利潤的，有益的
+    }
+    I made profitable use of my time (= used my time to get advantages or benefits), mixing with a lot of different people and practising my Spanish.
+    我充分利用時間和許多不同的人交遊，練習我的西班牙語。
 }
 
 promising {
-    有為的，有前途的
+    adj {
+        有為的，有前途的
+    }
+    "How's your new venture going?" "It's looking quite promising."
+    「你的新事業進展得如何？」「看起來相當不錯。」
 }
 
 prosper {
-    繁榮，興榮
+    v {
+        繁榮，興榮
+    }
+    Lots of microchip manufacturing companies prospered at that time.
+    許多生產晶片的公司都是在那時候發達起來的。
 }
 
 punctual {
     adj {
         守時的
     }
+    He's fairly punctual (= he usually arrives on time).
+    他通常非常準時。
 }
 
 rage {
-    憤怒，狂熱
+    n {
+        憤怒，狂熱
+    }
+    Her sudden towering rages were terrifying.
+    她突然暴跳如雷，很嚇人。
+    
+    A flu epidemic is raging in/through local schools.
+    一場流感在當地各學校肆虐。
+    
+    The argument rages on (= continues strongly).
+    正在進行激烈的爭論。
 }
 
 rave review {
@@ -2700,7 +2808,12 @@ rave review {
 }
 
 recite {
-    背誦
+    v {
+        背誦，朗誦，當衆吟誦
+        to say a piece of writing aloud from memory, or to publicly say a list of things
+    }
+    The opposition party recited a long list of the government's failings.
+    反對黨列舉出政府一大堆失誤之處。
 }
 
 religious {
@@ -2710,7 +2823,11 @@ religious {
 }
 
 reluctant {
-    勉強的
+    adj {
+        勉強的
+    }
+    Many parents feel reluctant to talk openly with their children.
+    很多父母都不願意和兒女們敞開心扉交談。
 }
 
 respectively {
@@ -2733,35 +2850,87 @@ restless {
 }
 
 retreat {
-    撤退
+    v {
+        撤退，後退
+        
+        改變主意
+        to decide not to do something, or to stop believing something, because it causes too many problems
+    }
+    the retreat from Dunkirk
+    敦刻爾克大撤退
+    
+    The government is retreating from its promises.
+    政府要收回其承諾。
+    
+    When she came towards me shouting, I retreated (behind my desk).
+    她大叫著衝向我時，我就後退（到了桌子後面）。
 }
 
 scenario {
     n {
-        場景
+        設想，場景
+        a description of possible actions or events in the future
     }
+    There are several possible scenarios.
+    有幾種可能出現的局面。
+    
+    a horrific/nightmare scenario such as a Third World War
+    可怕的／夢魘般的場景，如第三次世界大戰
 }
 
 scholarship {
     n {
+        學術研究
+        
         獎學金
     }
+    a work of great scholarship
+    高度學術性的著作
+    
+    Paula went to the Royal College of Music on a scholarship.
+    寶拉得到一份獎學金赴皇家音樂學院求學。
 }
 
 shrug {
-    聳肩
+    v {
+        聳肩
+    }
+    Thousands of people are starving to death while the world shrugs its shoulders (= shows no interest or care).
+    成千上萬的人瀕於餓死，世人卻無動於衷。
 }
 
 shrug off {
-    擺脫...，不理會...
+    不理會...
+    to treat something as if it is not important or not a problem
+    
+    擺脫...
+    to get rid of something unpleasant that you do not want
+    
+    You're a father and you can't simply shrug off your responsibility for your children.
+    你是一位父親，不能推卸對孩子們的責任。
+    
+    I hope I can shrug off this cold before I go on holiday.
+    我希望度假之前感冒能好。
 }
 
 singular {
-    單數的，奇特的，非凡的
+    adj {
+        單數的
+        
+        奇特的，非凡的
+        of an unusual quality or standard; noticeable
+    }
+    It was a building of singular grace and beauty.
+    這棟建築物非常雅致、漂亮。
 }
 
 sledge {
-    雪橇
+    n {
+        雪橇
+    }
+    v {
+        乘雪橇
+    }
 }
 
 some ... others ... {
@@ -2770,6 +2939,9 @@ some ... others ... {
 
 specialize in {
     專攻
+    
+    a restaurant that specializes in seafood
+    專營海鮮的餐館
 }
 
 splay {
@@ -2792,7 +2964,11 @@ straight A's student {
 }
 
 strive {
-    力爭，奮鬥
+    v {
+        力爭，奮鬥
+    }
+    Mr Roe has kindled expectations that he must now strive to live up to.
+    羅先生激發了人們的期望，現在他必須努力不辜負這種期望。
 }
 
 substitute {
@@ -2809,12 +2985,15 @@ substitute {
     下半場比賽戴頓上場換下了威廉斯。
 }
 
-surgical {
-    手術的
-}
-
 surrender {
-    投降
+    v {
+        投降
+    }
+    They would rather die than surrender (to the invaders).
+    他們寧死也不（向侵略者）投降。
+    
+    I finally surrendered to temptation, and ate the last piece of chocolate.
+    我最後還是抵擋不住誘惑，吃掉剩下的最後一塊巧克力。
 }
 
 sustain {
@@ -2925,7 +3104,12 @@ vague {
 verbal {
     adj {
         口頭的
+        
+        用言辭的
+        relating to words
     }
+    It can sometimes be difficult to give a verbal description of things like colours and sounds.
+    有時候可能很難用語言來描述顏色、聲音之類的東西。
 }
 
 virtually {
