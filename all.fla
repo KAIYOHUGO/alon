@@ -2658,11 +2658,18 @@ gulf {
 habitual {
     adj {
         通常的，習慣性的
+        usual or repeated
     }
+    her habitual meanness
+    她一貫的卑劣行爲
 }
 
 haste {
-    匆忙，急促
+    n {
+        匆忙，急促
+    }
+    His father had just died and he didn't want to marry with indecent haste.
+    父親剛剛去世，他不想太過匆忙地結婚——那樣做有悖情理。
 }
 
 have curls {
@@ -2689,12 +2696,16 @@ homogenous {
     adj {
         同類的
     }
+    The population of the village has remained remarkably homogeneous.
+    這個村莊的人口保持著顯著的同族特徵。
 }
 
 iconic {
     adj {
-        代表性的
+        非常出名的，代表性的
     }
+    John Lennon gained iconic status following his death.
+    約翰‧藍儂死後成了偶像級人物。
 }
 
 identify with {
@@ -2710,78 +2721,146 @@ idle around {
 
 idle away one's time {
     虛度光陰
+    
+    We idled away the hours drinking and playing cards.
+    我們喝酒、玩紙牌，消磨時間。
 }
 
 imitate {
-    模仿，仿效
+    v {
+        模仿，仿效
+    }
+    They produce artificial chemicals which exactly imitate particular natural ones.
+    他們生產酷似某些天然物質的人造化學品。
 }
 
 immigrate {
-    移民
+    v {
+        移民
+    }
+    He immigrated with his parents in 1895 and grew up on Long Island.
+    1895年，他與父母一起移民，並在長島長大。
 }
 
 impulse {
     n {
         衝動
     }
+    I had this sudden impulse to shout out "Nonsense!" in the middle of her speech.
+    在她發言時我突然想大喊「一派胡言！」。
 }
 
 in particular {
     尤其
+    
+    講究的，挑剔的
+    
+    He's very particular about the kitchen - everything has to be perfectly clean and in its place.
+    他對廚房非常挑剔——每樣東西都必須一塵不染，物歸原位。
 }
 
 in the name of {
     以...的名義
+    for someone or belonging to someone
+    
+    The house is in my wife's name.
+    這房子歸於我妻子名下。
 }
 
 inadequate {
-    不足的
+    adj {
+        不夠好的
+        
+        不足的
+    }
+    This work is woefully (= extremely) inadequate - you'll have to do it again.
+    這工作做得非常糟糕——你必須重做
+    
+    She rejected the $2 million offer as totally inadequate.
+    她認為200萬美元的出價完全不夠，因而拒絕了。
+    
+    Maddie's a real expert on art, so I feel completely inadequate whenever I talk to her about it.
+    麥迪在藝術方面是個真正的專家，因此每次和她談論藝術我都覺得自己不夠格。
 }
 
 incidence {
     n {
         發生，事件
     }
+    an increased incidence of cancer near nuclear power stations
+    核電站附近癌症發病率的上升
 }
 
 indicate {
     v {
-        指示
+        表明，顯示
+        to show, point, or make clear in another way
     }
+    Exploratory investigations have indicated large amounts of oil below the sea bed.
+    勘測調查顯示海床下有大量的石油。
+    
+    She indicated to me (that) she didn't want me to say anything.
+    她向我表示希望我甚麼都不要說。
 }
 
 indigenous {
     adj {
         原生的
     }
+    So who are the indigenous people of this land?
+    那麼誰是這塊土地的原住民？
 }
 
 inevitable {
     adj {
         無可避免的
     }
+    The accident was the inevitable consequence/result/outcome of carelessness.
+    這次意外是粗心導致的必然結果。
 }
 
 infant {
-    嬰兒
-}
-
-influential {
-    有影響力的
-}
-
-instinct {
-    本性，本能
-}
-
-insular {
     n {
-        絕緣體
+        嬰兒
     }
 }
 
+influential {
+    adj {
+        有影響力的
+    }
+    Johnson was influential (= important) in persuading the producers to put money into the film.
+    詹森在說服製作人投資拍攝此片方面起了重要作用。
+}
+
+instinct {
+    n {
+        本性，本能，直覺
+    }
+    All his instincts told him to stay near the car and wait for help.
+    他的直覺告訴他要留在車旁、等待救援。
+}
+
 intimate {
-    親密的，有性關係的，私人的，密友
+    adj {
+        親密的，有性關係的
+        
+        諳熟的，精通的
+    }
+    n {
+        密友
+    }
+    v {
+        暗示
+    }
+    The restaurant has a very intimate atmosphere.
+    這家餐廳的氣氛很怡人。
+    
+    He's become very intimate with an actress.
+    他和一名女演員的關係變得非常親密。
+    
+    She has intimated that she will resign if she loses the vote.
+    她已經暗示如果選舉落敗她將辭職。
 }
 
 juvenile {
@@ -2986,6 +3065,13 @@ off the hook {
     
     John's agreed to go to the meeting in my place so that gets/lets me off the hook.
     約翰答應幫我去開會，這樣我就能脫身了。
+}
+
+on (an) impulse {
+    一時興起
+    
+    "I didn't know you were looking for some new shoes." "Oh, I wasn't - I just bought them on impulse."
+    「我不知道你想要買雙新鞋。」「噢，不是的——我只是一時衝動才買的。」
 }
 
 on cue {
